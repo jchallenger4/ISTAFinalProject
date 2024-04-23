@@ -1,0 +1,119 @@
+:root{
+   --accent-color: #E8AE02;
+   --accent-dark-color: #BF8F00;
+   --font-color: #E8AE02;
+   --bg-color: #001E17;
+}
+
+h1 {
+	font-size: 400%;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	margin: 0px;
+	border: 0px;
+}
+
+.Updates {
+	color: white;
+}
+
+body {
+	background-color: var(--bg-color);
+	color: var(--font-color);
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+header {
+	text-align: center;
+	margin: 0px auto;
+	padding-bottom: 20px;
+	border-bottom: 1px solid;
+	border-color: var(--accent-dark-color);
+}
+
+header img {
+	width: 150px;
+	margin: 0px auto;
+	padding: 30px;
+	border: 0px auto;
+}
+
+footer {
+	text-align: center;
+	margin: 0px auto;
+	padding-top: 20px;
+	border-top: 1px solid;
+	border-color: var(--accent-dark-color);
+}
+
+a{
+   color: var(--font-color); 
+}     
+
+a:hover {
+   color: var(--accent-dark-color); 
+}
+
+#featured {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 20px;
+	padding: 0px;
+}
+
+/* I need to fix width and height of images so they resize uniformly.
+#feature-pics {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+}
+*/
+
+#featured img{
+	padding-left: 40px;
+	padding-right: 40px;
+	height: 500px;
+	width: auto;
+}
+
+#about {
+	text-align:center;
+	p {
+		width: 50%;
+		height:auto;
+		margin: auto;
+		padding: 10px;
+	}
+	padding: 10px;
+	padding-top: 50px;
+}
+
+#about div {
+	margin: auto;
+	height: 50%;
+	width: 90%;
+	border: 5px solid var(--accent-color);
+	padding: 10px;
+}
+
+#showtimes {
+	display: block;
+	text-align:center;
+	h1{
+		padding-bottom: 0px;
+	}
+}
+
+.socialLogos { 
+	width: 25px;
+}
+
+.movie-info {
+	h3 {
+		text-align: center;
+	}
+}
