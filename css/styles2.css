@@ -1,0 +1,194 @@
+/* Updated CSS with appealing fonts and colors */
+
+/* Basic styling for demonstration purposes */
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8; /* Light gray background */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+nav {
+    display: flex;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold; /* Bold font weight */
+    transition: color 0.3s; /* Smooth color transition on hover */
+}
+
+nav ul li a:hover {
+    color: #ffc107; /* Yellow color on hover */
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a {
+    color: #333; /* Dark gray color */
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd; /* Light gray background on hover */
+}
+
+/* Additional styles for the banner */
+.banner {
+    text-align: center; /* Center the content */
+    position: fixed; /* Fixed positioning */
+    top: 0; /* Position at the top */
+    left: 0;
+    width: 100%; /* Full width */
+    height: auto;
+    background-color: #333; /* Background color for the banner */
+}
+
+.banner img {
+    min-width: 100%;
+    max-width: 100%; /* Ensure the image doesn't exceed the width of the screen */
+    max-height: 100px;
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+header {
+    padding-top: 12%; /* Adjust padding to accommodate the banner height */
+}
+
+#featured-movie {
+    text-align: center; /* Center the content */
+}
+
+#featured-movie iframe {
+    display: block; /* Ensure the iframe is displayed as a block element */
+    margin: 0 auto; /* Center the iframe horizontally */
+}
+footer {
+    text-align: center; /* Center the content */
+}
+
+.contact-links {
+    display: inline-block; /* Display links in a single line */
+}
+
+.contact-links a {
+    text-decoration: none; /* Remove underline from links */
+    margin: 0 10px; /* Add some margin between links */
+}
+
+.instagram-icon {
+    width: 20px; /* Adjust the width of the Instagram icon */
+    vertical-align: middle; /* Align the icon vertically with the text */
+}
+.dark-mode {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+.dark-mode-toggle {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+  }
+  
+  /* Dark mode */
+  .dark-mode .slider {
+    background-color: #222;
+  }
+  
+  .dark-mode .slider:before {
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  
+  /* Sun and moon icons */
+  .slider:before {
+    content: url('sun.png');
+  }
+  
+  .dark-mode .slider:before {
+    content: url('moon.png');
+  }
