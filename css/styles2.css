@@ -192,3 +192,31 @@ footer {
   .dark-mode .slider:before {
     content: url('moon.png');
   }
+
+.upcomingTableContainer {
+    margin: 0;
+    padding: 20px 25% 20px 33%;
+    width: 60%;
+}
+
+.upcomingMoviesTable {
+	width: 50%;
+	border-collapse: collapse;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th {
+	padding: 8px; /* Padding around content */
+	text-align: center;
+	border-bottom: 2px solid #ddd;
+}
+
+td {
+	padding: 8px; /* Padding around content */
+    text-align: center;
+	border-bottom: 2px solid #ddd;
+}
+
+tr {
+    border-bottom: 7px transparent;
+}
