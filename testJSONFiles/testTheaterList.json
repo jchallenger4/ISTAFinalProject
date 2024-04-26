@@ -1,0 +1,83 @@
+{
+    "data": {
+      "theaters": [
+        {
+          "id": "1K4fe6fz4cZZHxy",
+          "tid": "AAXZU",
+          "name": "Cinemark Century Tucson Marketplace and XD",
+          "latitude": 32.18708,
+          "longitude": -110.9539,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 2.4581567415927488
+        },
+        {
+          "id": "RkLfJNflpsYLind",
+          "tid": "AAMPB",
+          "name": "The Loft Cinema",
+          "latitude": 32.236,
+          "longitude": -110.92362,
+          "hasShowtimes": "true",
+          "hasReservedSeating": false,
+          "isTicketing": true,
+          "distance": 3.7647277581332883
+        },
+        {
+          "id": "GPbf0mtKWFeMF81",
+          "tid": "AANGB",
+          "name": "Cinemark Century El Con 20 and XD",
+          "latitude": 32.2216,
+          "longitude": -110.9159,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 3.917898166773646
+        },
+        {
+          "id": "zW1f48hRkFjMt6D",
+          "tid": "AAUVM",
+          "name": "Harkins Tucson Spectrum 18",
+          "latitude": 32.1536,
+          "longitude": -110.9904,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 4.157964419885369
+        },
+        {
+          "id": "jk9fGxfGMFAYHjA",
+          "tid": "AAXJI",
+          "name": "RoadHouse Cinemas Crossroads",
+          "latitude": 32.2507,
+          "longitude": -110.8904,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 5.9536526095480395
+        },
+        {
+          "id": "gyKfa9fZkiPrTxY",
+          "tid": "AAPQI",
+          "name": "Cinemark Century Park Place 20 and XD",
+          "latitude": 32.2214,
+          "longitude": -110.8672,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 6.7460754652795885
+        },
+        {
+          "id": "Lrbfx2flqfxPUYk",
+          "tid": "AAAYI",
+          "name": "AMC Loews Foothills 15",
+          "latitude": 32.3405,
+          "longitude": -111.013,
+          "hasShowtimes": "true",
+          "hasReservedSeating": true,
+          "isTicketing": true,
+          "distance": 8.965434858856137
+        }
+      ]
+    }
+  }

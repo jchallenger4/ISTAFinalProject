@@ -1,0 +1,1553 @@
+{
+    "data": {
+      "theaterShowtimeGroupings": {
+        "theaterId": "1K4fe6fz4cZZHxy",
+        "displayDates": [
+          "2024-04-24",
+          "2024-04-25",
+          "2024-04-26",
+          "2024-04-27",
+          "2024-04-28",
+          "2024-04-29",
+          "2024-04-30",
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-07",
+          "2024-05-08",
+          "2024-05-09",
+          "2024-05-10",
+          "2024-05-11",
+          "2024-05-12",
+          "2024-05-13",
+          "2024-05-14",
+          "2024-05-15",
+          "2024-05-16",
+          "2024-05-17",
+          "2024-05-18",
+          "2024-05-19",
+          "2024-05-20",
+          "2024-05-21",
+          "2024-05-22",
+          "2024-05-23",
+          "2024-05-24",
+          "2024-05-25",
+          "2024-05-26",
+          "2024-05-27",
+          "2024-05-28",
+          "2024-05-29",
+          "2024-05-30",
+          "2024-05-31",
+          "2024-06-01",
+          "2024-06-02",
+          "2024-06-03",
+          "2024-06-04",
+          "2024-06-05",
+          "2024-06-08",
+          "2024-06-09",
+          "2024-06-10",
+          "2024-06-11",
+          "2024-06-12",
+          "2024-07-13",
+          "2024-07-14",
+          "2024-07-15",
+          "2024-07-16",
+          "2024-07-17",
+          "2024-08-03",
+          "2024-08-04",
+          "2024-08-05",
+          "2024-08-06",
+          "2024-08-07",
+          "2024-08-25",
+          "2024-08-26",
+          "2024-08-27",
+          "2024-08-28",
+          "2024-09-26",
+          "2024-09-27",
+          "2024-09-28",
+          "2024-09-29",
+          "2024-09-30",
+          "2024-10-01",
+          "2024-10-02",
+          "2024-10-03",
+          "2024-10-26",
+          "2024-10-27",
+          "2024-10-28",
+          "2024-10-29",
+          "2024-10-30",
+          "2024-11-24",
+          "2024-11-25",
+          "2024-11-26",
+          "2024-11-27",
+          "2024-12-07",
+          "2024-12-08",
+          "2024-12-09",
+          "2024-12-10",
+          "2024-12-11"
+        ],
+        "displayDate": "2024-04-25",
+        "mppBaseUrl": "https://www.flixster.com/switchboard/internal-checkout?mid={mid}&tid={tid}&a={a}&date={sdate}&datetime={sdate}",
+        "movies": [
+          {
+            "fandangoId": "235243",
+            "emsId": "c9cc0903-9326-4fc9-ae53-ef939c04544b",
+            "emsVersionId": "10b86bd4-a963-4dbc-b085-b61c5bfe8750",
+            "name": "Boy Kills World",
+            "durationMinutes": 111,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 64,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "na",
+              "dtlLikedScore": null,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/95fe6210-9be3-11eb-954b-43250906bea9--green-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-26",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/jJVKQ1EG7bZ1DhlrUQnpUTkWhbQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiOGZhZjgyLTRmMDUtNGU1NC1iMTU2LTMyMTIyNzNiNDBhZC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "235243",
+                "movieVariantId": "D5KAo203",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "EJPrwKoe",
+                        "type": "Available",
+                        "providerTime": "19:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:00"
+                      },
+                      {
+                        "id": "EYP4N0o2",
+                        "type": "Available",
+                        "providerTime": "21:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+21:50"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "228201",
+            "emsId": "8aa567ab-7079-45b2-af27-fff5c410ae82",
+            "emsVersionId": "cbbe7b9a-7db1-45d7-a99f-eb90f0eb060b",
+            "name": "Challengers",
+            "durationMinutes": 131,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 95,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "na",
+              "dtlLikedScore": null,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/95fe6210-9be3-11eb-954b-43250906bea9--green-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-26",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/9G1lxDNFoAZy77XHEELQIrTB7_0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjZDliZWNjLTgzNGQtNDJmNC1iYjlhLTE4YjNlYWY1MGQ3NC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "228201",
+                "movieVariantId": "wNBkWXO3",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "5ZZb2dG8",
+                        "type": "Available",
+                        "providerTime": "16:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+16:00"
+                      },
+                      {
+                        "id": "ExMwQ6Zx",
+                        "type": "Available",
+                        "providerTime": "19:15:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:15"
+                      },
+                      {
+                        "id": "54JMGBL1",
+                        "type": "Available",
+                        "providerTime": "22:25:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:25"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "235626",
+            "emsId": "3887ddbc-e718-3568-9276-77d59798efd4",
+            "emsVersionId": "7726a8b8-d5b9-3657-8aff-e336d0c5bbda",
+            "name": "The Mummy",
+            "durationMinutes": 124,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 61,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 75,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "1999-05-07",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/-_VVFjBiM-JoT6qsgv5-eZDdh9c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY1NjEyYzRmLTA0MmQtNDA1OC05ZDQ4LThmYzU5ZDYyMjk5Ny5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "235626",
+                "movieVariantId": "x4WwOpz4",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "EXPx1kVq",
+                        "type": "Available",
+                        "providerTime": "17:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+17:30"
+                      },
+                      {
+                        "id": "7NwgWnjr",
+                        "type": "Available",
+                        "providerTime": "20:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+20:30"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "232799",
+            "emsId": "c275fd0f-9be1-4bd4-8bb5-4cb0cdfba904",
+            "emsVersionId": "1345b66a-b339-4166-9863-1ae4a898689b",
+            "name": "Unsung Hero",
+            "durationMinutes": 112,
+            "tomatoRating": null,
+            "userRating": {
+              "state": "na",
+              "dtlLikedScore": null,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/95fe6210-9be3-11eb-954b-43250906bea9--green-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG",
+              "description": "Parental Guidance Suggested"
+            },
+            "releaseDate": "2024-04-26",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/etrRLqtxdhIUXe4ZY-XMdBlFBGE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkNzM2MzYwLTFkMzAtNGI2ZS04NDczLWUyMDFjZWQ5OTE3My5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "232799",
+                "movieVariantId": "G4rGvjM5",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "5DQ06xnv",
+                        "type": "Available",
+                        "providerTime": "18:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+18:00"
+                      },
+                      {
+                        "id": "EJPr0xLY",
+                        "type": "Available",
+                        "providerTime": "20:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+20:50"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "235019",
+            "emsId": "7569f41b-580d-3cc9-94fe-b2e59292a8b5",
+            "emsVersionId": "74a2969d-6387-3c6d-9b6b-cf6263cbd95e",
+            "name": "Abigail",
+            "durationMinutes": 109,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 84,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 87,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-19",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/_3auZfilUqYm0D5ahozuLUmwTc4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxNWM1ZmNmLTlmZmMtNDU1ZC05MTQ4LTdlODA2OGMwYzgyMC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "235019",
+                "movieVariantId": "jNDBrOb4",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "3z6waG8b",
+                        "type": "Available",
+                        "providerTime": "13:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+13:50"
+                      },
+                      {
+                        "id": "5DQ0Way1",
+                        "type": "Available",
+                        "providerTime": "16:35:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+16:35"
+                      },
+                      {
+                        "id": "EJPrWAGW",
+                        "type": "Available",
+                        "providerTime": "19:20:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:20"
+                      },
+                      {
+                        "id": "EYP4WODo",
+                        "type": "Available",
+                        "providerTime": "22:05:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:05"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234146",
+            "emsId": "13f6fb12-a909-4298-96d8-c7f5c83a596f",
+            "emsVersionId": "e7488c49-2625-4437-b3ad-40590e81f3ff",
+            "name": "Spy x Family Code: White",
+            "durationMinutes": 110,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 96,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 98,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "2024-04-19",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/Squ4zMOZzqOSvapQh6Vx1DpjAFk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiZjE1ZTY0LTM5ODktNDg4OS05OWY4LWM2MzI2NDllNzc2OS5wbmc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234146",
+                "movieVariantId": "L4702JR5",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "English Dubbed",
+                        "id": "oO7NPD5w",
+                        "shortDescription": "This film is dubbed in English."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "7L2XWexO",
+                        "type": "Available",
+                        "providerTime": "12:20:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:20"
+                      },
+                      {
+                        "id": "5wPwx9OX",
+                        "type": "Available",
+                        "providerTime": "22:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:30"
+                      }
+                    ]
+                  },
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "English Subtitles",
+                        "id": "Z25g4M34",
+                        "shortDescription": "The shows offer English subtitles"
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "3BqyW4Px",
+                        "type": "Available",
+                        "providerTime": "15:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:10"
+                      },
+                      {
+                        "id": "3GeLWJpP",
+                        "type": "Available",
+                        "providerTime": "19:40:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:40"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234768",
+            "emsId": "31826f2f-6513-3b38-ac1c-ca5941e4411b",
+            "emsVersionId": "7fa4faf2-5ae0-319f-b992-125ad0eaee2c",
+            "name": "The Ministry of Ungentlemanly Warfare",
+            "durationMinutes": 120,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 72,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 93,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-19",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/1eHwSs4Hsk8dmj_7g_HOVkw8x6U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiZTU3MTJhLTA4NjgtNDViYS05YTRlLWUzODcwMGExZWNlZC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234768",
+                "movieVariantId": "q4mo1VxN",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "EvqwKevQ",
+                        "type": "Available",
+                        "providerTime": "12:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:30"
+                      },
+                      {
+                        "id": "EMlNW9ez",
+                        "type": "Available",
+                        "providerTime": "15:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:30"
+                      },
+                      {
+                        "id": "ElJwN4vy",
+                        "type": "Available",
+                        "providerTime": "18:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+18:30"
+                      },
+                      {
+                        "id": "5pmwVDo1",
+                        "type": "Available",
+                        "providerTime": "21:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+21:30"
+                      }
+                    ]
+                  },
+                  {
+                    "amenities": [
+                      {
+                        "name": "Cinemark XD",
+                        "id": "OLEMpX7p",
+                        "shortDescription": "Cinemark XD auditoriums feature a large screen, digital projection, plush seating, and digital sound system."
+                      },
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "5mMwgbvQ",
+                        "type": "Available",
+                        "providerTime": "13:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+13:00"
+                      },
+                      {
+                        "id": "3ANmWxPO",
+                        "type": "Available",
+                        "providerTime": "16:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+16:00"
+                      },
+                      {
+                        "id": "7qxwvJeq",
+                        "type": "Available",
+                        "providerTime": "19:05:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:05"
+                      },
+                      {
+                        "id": "EerwOvKN",
+                        "type": "Available",
+                        "providerTime": "22:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:10"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234512",
+            "emsId": "b9538a0a-8e95-4da3-b98c-16e14831d546",
+            "emsVersionId": "bb2d9294-b6e2-4df9-a9ab-12e40f5940e1",
+            "name": "Civil War",
+            "durationMinutes": 109,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 81,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 72,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-12",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/ETuDz44d0NgZuwQlOfh0NxJai1U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I5MTQ2Y2ExLWU3MTItNDExYy04ODkyLTI1NmY3NjZiYjRlNC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234512",
+                "movieVariantId": "a5jV1y65",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "3BqyW4dx",
+                        "type": "Available",
+                        "providerTime": "12:15:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:15"
+                      },
+                      {
+                        "id": "ExMw4nLb",
+                        "type": "Available",
+                        "providerTime": "13:15:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+13:15"
+                      },
+                      {
+                        "id": "58QZAj2N",
+                        "type": "Available",
+                        "providerTime": "15:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:00"
+                      },
+                      {
+                        "id": "54JMD6yM",
+                        "type": "Available",
+                        "providerTime": "16:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+16:50"
+                      },
+                      {
+                        "id": "ErywMYVo",
+                        "type": "Available",
+                        "providerTime": "17:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+17:50"
+                      },
+                      {
+                        "id": "EbpwRjmN",
+                        "type": "Available",
+                        "providerTime": "18:55:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+18:55"
+                      },
+                      {
+                        "id": "56ypYNeP",
+                        "type": "Available",
+                        "providerTime": "20:35:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+20:35"
+                      },
+                      {
+                        "id": "EaZWygmQ",
+                        "type": "Available",
+                        "providerTime": "21:45:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+21:45"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "235278",
+            "emsId": "42c0dd81-a26d-351b-b446-385fdbdf4669",
+            "emsVersionId": "9a539d83-e8c7-31a2-b40e-f404c817177a",
+            "name": "Shrek 2",
+            "durationMinutes": 92,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 89,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 69,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG",
+              "description": "Parental Guidance Suggested"
+            },
+            "releaseDate": "2004-05-19",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34447_p_v13_bc.jpg"
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "235278",
+                "movieVariantId": "m3VwR7Y4",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "7oOwQz6O",
+                        "type": "Available",
+                        "providerTime": "12:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:10"
+                      },
+                      {
+                        "id": "EWpZWKjR",
+                        "type": "Available",
+                        "providerTime": "14:30:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+14:30"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234977",
+            "emsId": "a966ad35-f712-37eb-9da4-5a64f6f79b45",
+            "emsVersionId": "44c45262-562c-39a3-986c-10a095ffe863",
+            "name": "Monkey Man",
+            "durationMinutes": 113,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 89,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 83,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-05",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/QCg2pNiPXq_vIvCZtxsg284z5ZM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U1MzRiODdjLTFmNDktNDhjNi04YzY0LTk4YTRkYzg1YTBjMS5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234977",
+                "movieVariantId": "A5EPjDO4",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "EKX6WqGd",
+                        "type": "Available",
+                        "providerTime": "13:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+13:10"
+                      },
+                      {
+                        "id": "7yBdbwxg",
+                        "type": "Available",
+                        "providerTime": "16:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+16:10"
+                      },
+                      {
+                        "id": "5RzvdWbr",
+                        "type": "Available",
+                        "providerTime": "19:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:10"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234289",
+            "emsId": "1c62ddc4-1e78-38f3-b731-7d6e7d2de4df",
+            "emsVersionId": "dadd2b40-d9ae-33f8-9122-74df16b3cd94",
+            "name": "The First Omen",
+            "durationMinutes": 120,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 81,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 70,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-04-05",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/Qu_SyAs4yu1E1ZMsBAdNu26f2Oo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UyMGIwOWI5LTZhMWMtNDZkZi05ZTcyLTRiYmE4YTY3YjMxNC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234289",
+                "movieVariantId": "wNBkbdb3",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "3PdQ2Gje",
+                        "type": "Available",
+                        "providerTime": "12:55:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:55"
+                      },
+                      {
+                        "id": "5ZZbWLJR",
+                        "type": "Available",
+                        "providerTime": "15:55:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:55"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234403",
+            "emsId": "9a140a0e-f653-3714-a7cb-6b0a9614d020",
+            "emsVersionId": "1f5dbff8-c3d4-3d39-a993-a357f5ba9142",
+            "name": "Godzilla x Kong: The New Empire",
+            "durationMinutes": 115,
+            "tomatoRating": {
+              "state": "rotten",
+              "tomatometer": 54,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7d9d62c0-9be3-11eb-bd50-d166e33e886a--rotten.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 91,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "2024-03-29",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/OdwZKWrGmmbkELiwPPmga5sNWbo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhZWExMDc3LTExN2EtNGQzYS05M2RmLWIwMGNiZGQ1MjFlZS5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234403",
+                "movieVariantId": "M39dZPQN",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "E0Nj4LB1",
+                        "type": "Available",
+                        "providerTime": "12:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:50"
+                      },
+                      {
+                        "id": "EkKwXxJD",
+                        "type": "Available",
+                        "providerTime": "15:45:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:45"
+                      },
+                      {
+                        "id": "5OGjWwdP",
+                        "type": "Available",
+                        "providerTime": "18:40:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+18:40"
+                      },
+                      {
+                        "id": "7L2XWeGO",
+                        "type": "Available",
+                        "providerTime": "21:35:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+21:35"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234147",
+            "emsId": "f0bbe54c-35ce-342f-847d-5228c0360b9b",
+            "emsVersionId": "ef01920a-184d-321b-94ed-22089a89388b",
+            "name": "Ghostbusters: Frozen Empire",
+            "durationMinutes": 115,
+            "tomatoRating": {
+              "state": "rotten",
+              "tomatometer": 43,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7d9d62c0-9be3-11eb-bd50-d166e33e886a--rotten.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 83,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "2024-03-22",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/31MUPYoGBwNKA4Xc2O8X5xjfcvM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y1YzhmOGNiLTEyZWEtNDgzYy05YjU0LWY4OWVhMWI5ZWM1Ni5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234147",
+                "movieVariantId": "M39d2wDN",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "5gmwBleb",
+                        "type": "Available",
+                        "providerTime": "13:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+13:00"
+                      },
+                      {
+                        "id": "5jnw6ZD9",
+                        "type": "Available",
+                        "providerTime": "15:55:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:55"
+                      },
+                      {
+                        "id": "5QwVWoQp",
+                        "type": "Available",
+                        "providerTime": "18:50:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+18:50"
+                      },
+                      {
+                        "id": "7VgPWRJw",
+                        "type": "Available",
+                        "providerTime": "21:55:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+21:55"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234931",
+            "emsId": "eee2c188-00e1-427b-a07e-987fb52c8557",
+            "emsVersionId": "7bc77875-8f44-4f34-81f0-eeff3d28f014",
+            "name": "Immaculate",
+            "durationMinutes": 89,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 71,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 60,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "R",
+              "description": "Restricted"
+            },
+            "releaseDate": "2024-03-22",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/n5-EKOFILhRi8IFCCNSNzff0YAE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2ODY1NTM0LTJkODktNDQ4Mi04MTM4LTJmZTQxOGRiZWIxZi5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234931",
+                "movieVariantId": "Y3aY1ww3",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "7nkwjaJL",
+                        "type": "Available",
+                        "providerTime": "12:45:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:45"
+                      },
+                      {
+                        "id": "EdmwkVW4",
+                        "type": "Available",
+                        "providerTime": "22:15:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:15"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "234444",
+            "emsId": "a0fbfc3b-8712-3c3e-b5c1-9f2ebe5b5a14",
+            "emsVersionId": "d9ad1b01-4d23-34be-8c72-7b392fee8872",
+            "name": "Kung Fu Panda 4",
+            "durationMinutes": 94,
+            "tomatoRating": {
+              "state": "fresh",
+              "tomatometer": 72,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7928a380-9be3-11eb-954b-43250906bea9--fresh.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 86,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG",
+              "description": "Parental Guidance Suggested"
+            },
+            "releaseDate": "2024-03-08",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/gbUUcDTtnjLFPRoTQtyPB5nW4OE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3ZDdmYjllLTNkZDItNDJiOC1hMGZkLWVkMTdmMDg1YzViYy5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "234444",
+                "movieVariantId": "r5ZO1dDN",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "58QZAj6N",
+                        "type": "Available",
+                        "providerTime": "12:05:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:05"
+                      },
+                      {
+                        "id": "ErywMY2o",
+                        "type": "Available",
+                        "providerTime": "14:40:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+14:40"
+                      },
+                      {
+                        "id": "56ypYN0P",
+                        "type": "Available",
+                        "providerTime": "17:10:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+17:10"
+                      },
+                      {
+                        "id": "EXPx1k9q",
+                        "type": "Available",
+                        "providerTime": "19:45:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+19:45"
+                      },
+                      {
+                        "id": "7NwgWnqr",
+                        "type": "Available",
+                        "providerTime": "22:20:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+22:20"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "231634",
+            "emsId": "cecd223d-a20d-3268-bbef-9a4c847c673d",
+            "emsVersionId": "7a77d078-8594-3cdd-95d4-d9094f95ff0d",
+            "name": "Dune: Part Two",
+            "durationMinutes": 166,
+            "tomatoRating": {
+              "state": "certified",
+              "tomatometer": 93,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/73d962c0-9be3-11eb-8d70-c5bf5e872b28--certifiedfresh-textless.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 95,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "2024-03-01",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/PgHhmCKS3hR6GUsVNlC-vZ9d90I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhOTA0OTIzLTEwNDctNDhkNS1iNTc3LTY3MjBmNDc5OGU1Mi5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "231634",
+                "movieVariantId": "m3VwOK24",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "59kxqQdQ",
+                        "type": "Available",
+                        "providerTime": "15:15:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+15:15"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "fandangoId": "233319",
+            "emsId": "5d722cc7-8338-360c-93da-b71dac142fb5",
+            "emsVersionId": "aa6a9769-a934-353f-8f86-da1c34f5a92b",
+            "name": "Bob Marley: One Love",
+            "durationMinutes": 107,
+            "tomatoRating": {
+              "state": "rotten",
+              "tomatometer": 43,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/7d9d62c0-9be3-11eb-bd50-d166e33e886a--rotten.png"
+              }
+            },
+            "userRating": {
+              "state": "red",
+              "dtlLikedScore": 92,
+              "iconImage": {
+                "url": "https://images.fandango.com/cms/assets/b2570160-9be3-11eb-954b-43250906bea9--red-popcorn.png"
+              }
+            },
+            "motionPictureRating": {
+              "area": null,
+              "code": "PG-13",
+              "description": "Parents Strongly Cautioned"
+            },
+            "releaseDate": "2024-02-14",
+            "posterImage": {
+              "url": "https://resizing.flixster.com/IaXbRF4gIPh9jireK_4VCPNfdKc=/489x0/v2/https://resizing.flixster.com/PcYbZio4-LZuZJ_XghAxT1GbscY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhYThlNmUwLTRlMjMtNDA3Ny04ZGY5LTY4MzA5YTcyNjcwMC5qcGc="
+            },
+            "movieVariants": [
+              {
+                "formatId": "BKE0N3xn",
+                "mid": "233319",
+                "movieVariantId": "jNDB2Vj4",
+                "formatName": "STANDARD",
+                "amenityGroups": [
+                  {
+                    "amenities": [
+                      {
+                        "name": "Reserved seating",
+                        "id": "O7NXXg5w",
+                        "shortDescription": "This showtime allows you to reserve your seats ahead of time."
+                      },
+                      {
+                        "name": "LUXURY LOUNGER RECLINERS",
+                        "id": "B13Pb9E0",
+                        "shortDescription": "Cinemark’s new plush, electric powered recliners featuring footrests and cupholders."
+                      }
+                    ],
+                    "showtimes": [
+                      {
+                        "id": "E2xVa8eq",
+                        "type": "Available",
+                        "providerTime": "12:00:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+12:00"
+                      },
+                      {
+                        "id": "E1JQbBdd",
+                        "type": "Available",
+                        "providerTime": "14:45:00",
+                        "providerDate": "2024-04-25",
+                        "isActive": true,
+                        "sdate": "04-25-2024+14:45"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
