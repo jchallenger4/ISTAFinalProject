@@ -3,19 +3,37 @@
    <head>
 		<title>IMR Movie Reviews</title>
 		<meta charset="UTF-8">
-		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="../css/styles2.css">
+		<script src="../javascript/darkmode.js"></script>
 	</head>
 	<body>
 		<header>
-			<a href="index.html"><img class="mainLogo" src="IMR Logo.png" alt="IMR logo"/></a>
+			<div class="banner">
+				<img src="../images/banner.png" alt="ISTA Movie Reviews Logo">
+				<h1>Megamind</h1>
+			</div>
 			<nav>
-				<a href="index.html">Home</a> &nbsp;
-				<a href="comingSoon.html">Coming Soon</a> &nbsp;
-				<a href="glossary.html">Glossary</a> &nbsp;
-				<!--figure out subnav menu-->
-				<a href="showtimes.html">Showtimes</a> &nbsp;
-				<a href="about.html">About IMR</a>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="comingSoon.html">Coming Soon</a></li>
+					<li class="dropdown">
+						<a>Glossary</a>
+						<div class="dropdown-content">
+							<a href="Argylle.html">Argylle</a>
+							<a href="GodzillaM1.html">Godzilla Minus 1</a>
+							<a href="Oppenheimer.html">Oppenheimer</a>
+						</div>
+					</li>
+					<li><a href="showtimes.html">Showtimes</a></li>
+				</ul>
 			</nav>
+			<div class="dark-mode-toggle">
+				<label class="switch">
+					<input type="checkbox" onclick="toggleDarkMode()">
+					<span class="slider round"></span>
+				</label>
+			</div>
 		</header>
 
 		<section class="movie-info">
