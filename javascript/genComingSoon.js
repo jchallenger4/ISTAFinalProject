@@ -1,5 +1,5 @@
 const upcomingMovies = [];
-let apiOn = false;  // Change this to true ot make api calls
+const apiOnCommingSoon = false;  // Change this to true to make API calls
 
 document.addEventListener('DOMContentLoaded', onStart);
 
@@ -8,7 +8,7 @@ function onStart() {
     // api only allows for 500 calls for the free access so while testing 
     // therefor while testing we will use local json files from previous
     // retrievals
-    if (apiOn) {  
+    if (apiOnCommingSoon) {  
         // api calls will go here
         apiCallupComingMovies();
     } else {

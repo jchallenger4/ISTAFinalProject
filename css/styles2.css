@@ -199,12 +199,33 @@ footer {
     width: 60%;
 }
 
+/* CSS for showtime and coming soon tables */
+.showtimesTableContainer {
+    margin: 0;
+    padding: 20px 25% 20px 27%;
+    width: 60%;
+}
+
+.showtimesMoviesTable {
+    padding-top: 20px;
+    width: 100%;
+    max-width: 830px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.showtimesMoviesTable > tr > th{
+    font-size: 24px;
+}
+
 .upcomingMoviesTable {
 	width: 50%;
 	border-collapse: collapse;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/** would like to change colors when theme changes to dark mode
+ * but haven't figured it out yet 
+*/
 th {
 	padding: 8px; /* Padding around content */
 	text-align: center;
@@ -217,6 +238,34 @@ td {
 	border-bottom: 2px solid #ddd;
 }
 
+td > div.movieName {
+    font-size: 26px;
+    font-weight: bold;
+}
+
 tr {
+    text-align: center;
     border-bottom: 7px transparent;
+}
+
+div.showtimeLabel {
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul.noBullet {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 30px;;
+}
+
+ul.noBullet > li {
+    padding: 5px 0px;
+
+}
+
+ul.showtimes > li {
+    padding: 2px 0px;
+
 }
