@@ -10,6 +10,8 @@ I've (Mike) added a working homepage, with a dark mode toggle for our javascript
 
 Jacob Castillo - Added Furiosa page and modified glossary page and other drop down menus.
 
+Jose Casanova - Constructed the wireframes and helped with webpages
+
 **API use**:
   - Currently, the coming soon page can use an API but is not actively using it. The API functionality does work but the service I found only allows for 500 calls a month for the free service. So, I added temporary data in the JSON files that is the same as what an API call would return. If you want to use the API there is a variable that can be set to true in at the top of genComingSoon.js and genShowtimes.js to enable it, but please don't overuse it. Worst case scenario I can just make another account though so it's not the end of the world.
   - API being used is [Flixster](https://rapidapi.com/apidojo/api/flixster/details)
