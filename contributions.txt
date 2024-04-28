@@ -4,4 +4,4 @@ Antonio Cortez: showtimes, coming soon, api call javascript function, styles2.cs
 Aleksei Weinberg: Movie page content, navigation, accessibility
 Carson Nannini: Added to and modified glossary, Godzilla Minus One, styles2.css
 Jacob Castillo: Added Furiosa: A Mad Max Saga page and added it to all other dropdowns and glosseries
-Jose Casanova - Constructed the wireframes, helped with movie pages
+Jose Casanova - Constructed the wireframes, helped with movie pages, helped with api testing and handeling
