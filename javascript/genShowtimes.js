@@ -1,5 +1,5 @@
 const theaters = [];
-let apiOnShowtimes = false;  // Change this to true to make API calls
+let apiOnShowtimes = true;  // Change this to true to make API calls
 
 document.addEventListener('DOMContentLoaded', onStart);
 
