@@ -1,5 +1,5 @@
 Mike Williams: Added homepage, contact page, darkmode javascript function, favicon, headers, footers, styles2.css.
-Jerilyn Challenger: Initial Commit, Revisions, 
+Jerilyn Challenger: HTML & CSS skeletons for home page, headers, footers, navigation, about page, and 2 movie pages. Initial structure/style of site.
 Antonio Cortez: showtimes, coming soon, api call javascript function, styles2.css
 Aleksei Weinberg: Movie page content, navigation, accessibility
 Carson Nannini: Added to and modified glossary, Godzilla Minus One, styles2.css
