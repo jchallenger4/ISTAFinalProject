@@ -1,5 +1,5 @@
 const upcomingMovies = [];
-const apiOnCommingSoon = false;  // Change this to true to make API calls
+const apiOnCommingSoon = true;  // Change this to true to make API calls
 
 document.addEventListener('DOMContentLoaded', onStart);
 
