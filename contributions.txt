@@ -1,6 +1,6 @@
-Mike Williams: Added homepage, contact page, darmode javascript function, favicon, headers, footers, styles2.css.
+Mike Williams: Added homepage, contact page, darkmode javascript function, favicon, headers, footers, styles2.css.
 Jerilyn Challenger: Initial Commit, Revisions, 
 Antonio Cortez: showtimes, coming soon, api call javascript function, styles2.css
-Aleksei Weinberg: Movie page content
+Aleksei Weinberg: Movie page content, navigation, accessibility
 Carson Nannini: Added to and modified glossary, Godzilla Minus One
 Jacob Castillo: Added Furiosa: A Mad Max Saga page and added it to all other dropdowns and glosseries
