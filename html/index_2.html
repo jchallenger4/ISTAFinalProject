@@ -1,92 +1,108 @@
 <!DOCTYPE HTML>
 <html lang="en">
-   <head>
-		<title>IMR: ISTA Movie Reviews</title>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="styles.css">
-	</head>
-	<body>
-		<header>
-		<a href="index.html"><img class="mainLogo" src="IMR Logo.png" alt="IMR logo"/></a>
-         <nav>
-            <a href="index.html">Home</a> &nbsp;
-            <a href="comingSoon.html">Coming Soon</a> &nbsp;
+
+<head>
+	<title>IMR: ISTA Movie Reviews</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<header>
+		<a href="index.html"><img class="mainLogo" src="IMR Logo.png" alt="IMR logo" /></a>
+		<nav>
+			<a href="index.html">Home</a> &nbsp;
+			<a href="comingSoon.html">Coming Soon</a> &nbsp;
 			<a href="glossary.html">Glossary</a> &nbsp;
 			<!--figure out subnav menu-->
 			<a href="showtimes.html">Showtimes</a> &nbsp;
-            <a href="about.html">About IMR</a> &nbsp;
+			<a href="about.html">About IMR</a> &nbsp;
 			<a href="Argylle.html">Argylle</a> &nbsp;
-            <a href="Megamind.html">Megamind</a> &nbsp;
-			<a href="Oppenheimer.html">Oppenheimer</a> 
-			<a href="GodzillaM1.html">Godzilla Minus One</a> 
-         </nav>
-      </header>
-	  
-	  <main>
-	  <section class="Updates">
-		<p>Notes: 1) The menu items Argylle, Megamind, and Oppenheimer will be removed. I want to add them as a drop down for Glossary.</p>
-		<p>2) I've worked on: Home, Argylle, Megamind, and About. I've kinda jumped btwn HTML and CSS, so some look funky. If anyone finishes a movie page, the styling will be the same for all 3. P.S. I used ChatGPT for the About section and for mock movie revies</p>
-		<p>3) HTML & CSS have been such headaches with some things, so I've found workarounds. For ex: I can't display images unless they're in the same folder as HTML files, which is why they're all thrown together willy-nilly. Originally, I had them placed in the graphics folder, but they didn't render. Sorry if things are ugly, I just wanted to make it functional before worrying about the rest.</p>
-		<p>4) Currently, there's no Javascript at all, but we'll need some on 2 pages. I was thinking maybe calling an API to show movie showtimes? If that's too complicated, we can also use just a table for that and have static showtimes. P.S. I've no idea if we can use Angular, React, etc. but have been operating under the assumption that we can't</p>
-		<p>Re: requirements: I'm using tables for cast information on movie pages (they aren't styled so they look bad rn), and I'm using a form (a contact form on the about page)</p>
-		<ul>
-			<li>Appropriate Meta Tags</li>
-			<li>1 Page using a table to display data</li>
-			<li>One email hyperlink</li>
-			<li>Consistent banner logo area (DONE) </li> 
-			<li>Consistent Main Navigation (mostly done, need to add Argylle, MM, and Oppenheimer as a drop down menu.</li>
-			<li> Association with .css file (DONE)</li>
-			<li>Multimedia Element: YT vid, CSS image gallery, or CSS Transition (DONE - YT vids)</li>
-			<li>One page containing a form with at least three elements (IN PROGRESS - contact form)</li>
-			<li>Use of JS on TWO pages</li>
-			<li>All browsers must be able to render each page (so far I've only used Chrome)</li>
-		</ul>
-		
-		<p><strong>I don't know why the site scrolls horizontally.</strong> Also, buttons aren't styled or functional. Also, I chose this random idea and color scheme. Open to switching. I honestly didn't put much thought into it</p>
+			<a href="Megamind.html">Megamind</a> &nbsp;
+			<a href="Oppenheimer.html">Oppenheimer</a>
+			<a href="GodzillaM1.html">Godzilla Minus One</a>
+			<a href="Furiosa.html">Furiosa</a>
+		</nav>
+	</header>
+
+	<main>
+		<!-- <section class="Updates">
+			<p>Notes: 1) The menu items Argylle, Megamind, and Oppenheimer will be removed. I want to add them as a drop
+				down for Glossary.</p>
+			<p>2) I've worked on: Home, Argylle, Megamind, and About. I've kinda jumped btwn HTML and CSS, so some look
+				funky. If anyone finishes a movie page, the styling will be the same for all 3. P.S. I used ChatGPT for
+				the About section and for mock movie revies</p>
+			<p>3) HTML & CSS have been such headaches with some things, so I've found workarounds. For ex: I can't
+				display images unless they're in the same folder as HTML files, which is why they're all thrown together
+				willy-nilly. Originally, I had them placed in the graphics folder, but they didn't render. Sorry if
+				things are ugly, I just wanted to make it functional before worrying about the rest.</p>
+			<p>4) Currently, there's no Javascript at all, but we'll need some on 2 pages. I was thinking maybe calling
+				an API to show movie showtimes? If that's too complicated, we can also use just a table for that and
+				have static showtimes. P.S. I've no idea if we can use Angular, React, etc. but have been operating
+				under the assumption that we can't</p>
+			<p>Re: requirements: I'm using tables for cast information on movie pages (they aren't styled so they look
+				bad rn), and I'm using a form (a contact form on the about page)</p>
+			<ul>
+				<li>Appropriate Meta Tags</li>
+				<li>1 Page using a table to display data</li>
+				<li>One email hyperlink</li>
+				<li>Consistent banner logo area (DONE) </li>
+				<li>Consistent Main Navigation (mostly done, need to add Argylle, MM, and Oppenheimer as a drop down
+					menu.</li>
+				<li> Association with .css file (DONE)</li>
+				<li>Multimedia Element: YT vid, CSS image gallery, or CSS Transition (DONE - YT vids)</li>
+				<li>One page containing a form with at least three elements (IN PROGRESS - contact form)</li>
+				<li>Use of JS on TWO pages</li>
+				<li>All browsers must be able to render each page (so far I've only used Chrome)</li>
+			</ul>
+
+			<p><strong>I don't know why the site scrolls horizontally.</strong> Also, buttons aren't styled or
+				functional. Also, I chose this random idea and color scheme. Open to switching. I honestly didn't put
+				much thought into it</p> -->
 		</section>
 		<section class="home" id="featured">
 			<!-- To include: featured (thumbnails to movies), see all reviews button (links to glossary)-->
 			<h1>Featured</h1>
 			<div class="feature-pics">
-				<a href="Megamind.html"><img id="megamind" src="Megamind.jpg" alt="Megamind"/></a>
+				<a href="Megamind.html"><img id="megamind" src="Megamind.jpg" alt="Megamind" /></a>
 			</div>
-			
+
 			<div class="feature-pics">
-				<a href="Argylle.html"><img id="argylle" src="Argylle.jpg" alt="Argylle"/></a>
+				<a href="Argylle.html"><img id="argylle" src="Argylle.jpg" alt="Argylle" /></a>
 			</div>
-			
+
 			<div class="feature-pics">
-				<a href="Oppenheimer.html"><img id="oppenheimer" src="Oppenheimer.jpg" alt="Oppenheimer"/></a>
+				<a href="Oppenheimer.html"><img id="oppenheimer" src="Oppenheimer.jpg" alt="Oppenheimer" /></a>
 			</div>
-			
+
 			<!-- ADD A HOVER to show sneak peek of movie page with a "read full review" button -->
 		</section>
-		
+
 		<section class="home" id="about">
 			<!-- To include: short intro, links to about page-->
 			<div class="box">
-			<h1>Making Movie Night Easy</h1>
-			<p>Welcome to IMR (ISTA Movie Reviews), your ultimate 
-				destination for insightful and honest movie critiques. 
-				At IMR, we're passionate about cinema and dedicated to 
-				providing you with comprehensive reviews that guide 
-				and enrich your movie-going experience.</p>
+				<h1>Making Movie Night Easy</h1>
+				<p>Welcome to IMR (ISTA Movie Reviews), your ultimate
+					destination for insightful and honest movie critiques.
+					At IMR, we're passionate about cinema and dedicated to
+					providing you with comprehensive reviews that guide
+					and enrich your movie-going experience.</p>
 
-			<p>Founded on the belief that every movie deserves a fair assessment...</p>
-			
-			<button name="aboutButton">Read More</button>
+				<p>Founded on the belief that every movie deserves a fair assessment...</p>
+
+				<button name="aboutButton">Read More</button>
 			</div>
 		</section>
-		
+
 		<section class="home" id="showtimes">
 			<!-- To include: upcoming releases, links to showtimes page-->
 			<h1>What to Watch Next</h1>
 			<h2>Upcoming Releases</h2>
 		</section>
-	  
-	  </main>
-	  
-	  <footer>
+
+	</main>
+
+	<footer>
 		<p>Questions, Comments, Suggestions? <a href="about.html#contact">Contact Us</a></p>
 		<p>Connect with us on socials!</p>
 		<div class="socials">
@@ -97,6 +113,7 @@
 			<a href="https://www.youtube.com"><img src="Youtube.png" alt="Youtube Logo" class="socialLogos" /></a>
 		</div>
 		<p>&copy;ISTA Movie Reviews. 2024.</p>
-	  </footer>
-	</body>
+	</footer>
+</body>
+
 </html>
