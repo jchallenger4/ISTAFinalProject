@@ -269,3 +269,9 @@ ul.showtimes > li {
     padding: 2px 0px;
 
 }
+
+#glossary li {
+    font-size: 200%;
+    font-weight: bold;
+    color: black;
+}
